@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ICNApp</string>
+    <string name="action_logout">Log out</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="submit">Submit</string>
+    <string name="data_failed_to_insert_error_text">An error occoured during saving the data... try again later</string>
+    <string name="name_validation_error_text">The name contains non letter characters</string>
+    <string name="internet_connection_error">It seems to be a problem with your internet connection</string>
+    <string name="joke_loading_error">There was a problem while downloading the joke, please try again later</string>
+    <string name="preference_file_key">com.sagishchori.icnapp.USER_DETAILS_FILE_KEY</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
